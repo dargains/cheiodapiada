@@ -10,32 +10,32 @@ const jokeList = [
     punchline: 'Choca aí.'
   },
   {
-    author: 'Dios',
+    author: 'Diogo Albuquerque',
     joke: 'Onde é que o camelo corta o cabelo?',
     punchline: 'Num cameleireiro!'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Teresa Archer',
     joke: 'O que diz uma velhota quando tira o soutien?',
     punchline: 'Que chão tão frio.'
   },
   {
-    author: 'Andre Dargains',
+    author: 'Teresa Archer',
     joke: 'O que é que diz um escorrega para outro escorrega?',
     punchline: 'Os anus passam a correr!'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Filipe Simões',
     joke: 'O que é que a Margarida diz ao Donald antes de ir dormir?',
     punchline: 'Soube a Pato.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Ricardo Carvalho',
     joke: 'Queres chá verde ou preto?',
     punchline: 'Pode ser!'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Jorge Chagas',
     joke: 'Uma senhora e a filha estão a dormir no corredor. Que horas são?',
     punchline: 'Falta um quarto para as duas.'
   },
@@ -45,22 +45,22 @@ const jokeList = [
     punchline: 'YODAfone.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'André Dargains',
     joke: 'O que é  uma fofoca?',
     punchline: 'É um bibicho.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'João Gomes',
     joke: 'O que faz uma hortaliça surda?',
     punchline: 'Finge couve.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'João Gomes',
     joke: 'O que é que um astronauta diz à mulher?',
     punchline: 'Vou a... Marte para sempre!'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'João Gomes',
     joke: 'O que é um submarino com rodas?',
     punchline: 'Um Car-Naval.'
   },
@@ -70,7 +70,7 @@ const jokeList = [
     punchline: 'A THORta de Limão.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'João Gomes',
     joke: 'Qual é o gelado favorito de qualquer feiticeira?',
     punchline: 'O MAGO-NU.'
   },
@@ -80,12 +80,12 @@ const jokeList = [
     punchline: 'O seu π π.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Martim Calado',
     joke: 'Qual é o filme da disney preferido de uma prostituta?',
     punchline: 'A chupada era a lei.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Martim Calado',
     joke: 'Como se chama um cão sem patas traseiras e tomates de ferro?',
     punchline: 'Faísca.'
   },
