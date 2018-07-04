@@ -83,6 +83,7 @@ button {
   margin: 40px auto;
   box-shadow: none;
 	cursor: pointer;
+  margin-bottom: 20px;
   background-color: var(--primaryText);
   width: 80px;
   height: 80px;
@@ -131,7 +132,7 @@ button.bounce img {
 }
 @keyframes rotate {
   100% {
-    transform: rotate(180deg);
+    transform: rotate(-180deg);
   }
 }
 @keyframes animation {
