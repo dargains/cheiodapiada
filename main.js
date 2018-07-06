@@ -25,7 +25,7 @@ const jokeList = [
     punchline: 'Os anus passam a correr!'
   },
   {
-    author: 'Filipe Simões',
+    author: 'Filipe SJ',
     joke: 'O que é que a Margarida diz ao Donald antes de ir dormir?',
     punchline: 'Soube a Pato.'
   },
@@ -40,7 +40,7 @@ const jokeList = [
     punchline: 'Falta um quarto para as duas.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Filipe SJ',
     joke: 'Qual é a rede móvel de qualquer bom Jedi?',
     punchline: 'YODAfone.'
   },
@@ -55,7 +55,7 @@ const jokeList = [
     punchline: 'Finge couve.'
   },
   {
-    author: 'João Gomes',
+    author: 'Martim Calado',
     joke: 'O que é que um astronauta diz à mulher?',
     punchline: 'Vou a... Marte para sempre!'
   },
@@ -65,7 +65,7 @@ const jokeList = [
     punchline: 'Um Car-Naval.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'João Gomes',
     joke: 'Qual é a sobremesa preferida do Thor?',
     punchline: 'A THORta de Limão.'
   },
@@ -75,7 +75,7 @@ const jokeList = [
     punchline: 'O MAGO-NU.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Filipe SJ',
     joke: 'O que é que os matemáticos mais apreciam numa mulher?',
     punchline: 'O seu π π.'
   },
@@ -90,12 +90,12 @@ const jokeList = [
     punchline: 'Faísca.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Martim Calado',
     joke: 'O que é que um esquerdino nunca poderá fazer?',
     punchline: 'Exercer direito.'
   },
   {
-    author: 'Gabriel Guerreiro',
+    author: 'Filipe SJ',
     joke: 'Qual é a côr mais pessoal?',
     punchline: 'O azul-cueca.'
   },
@@ -108,6 +108,16 @@ const jokeList = [
     author: 'Edmundo Ramos',
     joke: 'para onde vão os dentistas quando morrem?',
     punchline: 'Para o céu da boca.'
+  },
+{
+    author: 'Catarina Carrola',
+    joke: 'Porque é que o panado se divorciou?',
+    punchline: 'Porque a mulher não prestava panada.'
+  },
+{
+    author: 'Martim Calado',
+    joke: 'Num date: Gostas de andy warhol?',
+    punchline: 'É que gostava de Pop-art toda.'
   },
 ];
 const lastResults = [];
